@@ -570,8 +570,8 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>Ravali Summer Collection Premium Picks of 2026-Version3</h1>
-                <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
+                <h1>Ravali Summer Collection Premium Picks of 2026</h1>
+                <p>Ravali Collection – Top Picks and Carefully selected styles that bring elegance, trend, and comfort together and Every collection is designed to make you stand out with confidence and style.Created by Srujan.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
                     <button class="btn btn-ghost" id="exploreDeals">Explore Deals</button>
@@ -603,7 +603,7 @@
         <section id="deals" class="section container" aria-labelledby="deals-title">
             <div class="title" id="deals-title">
                 <h2>Flash Sale</h2>
-                <p class="muted">Limited-time offers — don't miss out!</p>
+                <p class="muted">Limited-time offers given by Ravali — don't miss out!</p>
             </div>
 
             <div class="deal" style="align-items:stretch;">
