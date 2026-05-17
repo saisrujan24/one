@@ -572,10 +572,15 @@
             <div class="container">
                 <h1>vardhan Summer Collection Premium Picks of 2026</h1>
                 <p>vardhan Collection – Top Picks and Carefully selected styles that bring elegance, trend, and comfort together and Every collection is designed to make you stand out with confidence and style.Created by Srujan.</p>
-                <div>
-                    <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
-                    <button class="btn btn-ghost" id="exploreDeals">Explore Deals</button>
-                </div>
+               <div class="button-group">
+    <button class="btn btn-ghost" id="exploreDeals">
+        Explore Deals
+    </button>
+
+    <button class="btn btn-primary" id="shopNow">
+        Shop Now <em class="fas fa-arrow-right"></em>
+    </button>
+</div>
             </div>
         </section>
 
